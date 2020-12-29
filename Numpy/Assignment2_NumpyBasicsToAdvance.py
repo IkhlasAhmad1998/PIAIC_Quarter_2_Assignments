@@ -137,7 +137,7 @@ def function7():
 def function8():
     # Create a new array of 2x5 uints, filled with 6.
     
-    x = x = np.full((2,5), 6, dtype=np.uint) # write your code here
+    x = np.full((2,5), 6, dtype=np.uint) # write your code here
   
     return x
 
